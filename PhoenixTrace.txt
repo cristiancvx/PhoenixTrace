@@ -1,5 +1,6 @@
 04/04 13:31:20_502 
-START Application version 0x106 (custom data columns)
+START Application version 0x106 (custom data columns) modi
+
 04/04 13:31:44_999 BoschProtocol_VoxEpilogInterval = 5000
 04/04 13:31:44_999 BoschProtocol_InternalCallClosingAllowed = 1
 04/04 13:31:46_657  VOIPSTACK num Adapters = 1
