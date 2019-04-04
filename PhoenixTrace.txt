@@ -1,0 +1,63 @@
+04/04 13:31:20_502 
+START Application version 0x106 (custom data columns)
+04/04 13:31:44_999 BoschProtocol_VoxEpilogInterval = 5000
+04/04 13:31:44_999 BoschProtocol_InternalCallClosingAllowed = 1
+04/04 13:31:46_657  VOIPSTACK num Adapters = 1
+04/04 13:31:46_657 Adapter Index:11 Adapter Name: \DEVICE\TCPIP_{D86AFC8E-F5E1-46DE-B61F-292BC579580E}
+04/04 13:31:50_593 Card ATIS_VOIP first ch 1 nchannels 324
+04/04 13:31:50_923 Diskbuffer start AuxConstr nCall = 0 bInit = 0 status = 0
+04/04 13:31:50_924 Diskbuffer start BuildHeadersArray nCall = 0 bInit = 0
+04/04 13:31:51_017 Diskbuffer BuildHeadersArray result OK line = 547
+04/04 13:31:51_196 Active NAS at CreateNASInstance 2018.12.03 - 12.09 
+04/04 13:31:51_205  VOIPSTACK num Adapters = 1
+04/04 13:31:51_205 Adapter Index:11 Adapter Name: \DEVICE\TCPIP_{D86AFC8E-F5E1-46DE-B61F-292BC579580E}
+04/04 13:31:51_205 VOIPSTACK CreateVoIPPacketAquisition OK!
+04/04 13:31:52_801 Enter Onsize nType = 0 m_bOnSize = 0 cx = 176 / 0 cy = 33 / 0 
+04/04 13:31:52_802 Enter Onsize nType = 0 m_bOnSize = 0 cx = 287 / 0 cy = 25 / 0 
+04/04 13:31:52_803 Enter Onsize nType = 0 m_bOnSize = 1 cx = 345 / 287 cy = 25 / 25 
+04/04 13:31:52_803 Onsize cx = 345 / 287 cy = 25 / 25 
+04/04 13:31:52_945 DlgStBar:onRepositionR1 xleft=924 width=351  deckpos=924 
+04/04 13:31:52_945 set m_leftXdlgDeck=924 stBar=924 
+04/04 13:31:53_377 Repair DB OK step 1  records numb = 14602 line 968
+04/04 13:31:53_377 Database OK
+04/04 13:31:53_523 RecordsNumb OK
+04/04 13:31:54_529 Diskbuffer lastFat 1280000 crtFat 190183 pas 0
+04/04 13:31:57_413 NAS 2018.12.03 - 12.09 start AuxConstr nCall = 0 bInit = 0 status = 0
+04/04 13:31:57_415 NAS 2018.12.03 - 12.09 start BuildHeadersArray nCall = 0 bInit = 0
+04/04 13:31:57_421 Deck B (G:\) 2018.12.03---12.09 start AuxConstr nCall = 0 bInit = 0 status = 0
+04/04 13:31:57_428 NAS 2018.12.03 - 12.09 BuildHeadersArray result OK line = 547
+04/04 13:31:57_441 Deck B (G:\) 2018.12.03---12.09 start BuildHeadersArray nCall = 0 bInit = 0
+04/04 13:31:57_443 Deck A (D:\) 2018.01.22---01.28 start AuxConstr nCall = 0 bInit = 0 status = 0
+04/04 13:31:57_450 Deck A (D:\) 2018.01.22---01.28 start BuildHeadersArray nCall = 0 bInit = 0
+04/04 13:31:57_501 Deck A (D:\) 2018.01.22---01.28 BuildHeadersArray result OK line = 547
+04/04 13:31:57_515 Deck B (G:\) 2018.12.03---12.09 BuildHeadersArray result OK line = 547
+04/04 13:31:58_471 clsGlMessArray.Add 1
+04/04 13:31:58_750 clsGlMessArray.Add 2
+04/04 13:31:58_853 Starting archiving NAS  2018.12.03 - 12.09 recId=14641 pos=190182_0
+04/04 13:31:58_853 Before ArchiveRowNAS nasAssocTime = zero folderTime = 2018-12-03 pos=190182
+04/04 13:32:03_268 clsGlMessArray.Remove 1
+04/04 13:32:04_639 clsGlMessArray.Remove 0
+04/04 13:32:05_748 Deck 2 Deck B (G:\)  HddNAS Instance 2018.12.03 - 12.09 master=2
+04/04 13:32:05_748 Deck 2 Deck B (G:\) Ready For Record HddNAS Instance 2018.12.03 - 12.09 
+04/04 13:32:05_748 StoreDeckHddNAS_row Deck  2 SetMasterRecord 2
+04/04 13:32:07_504 Deck 1 Deck A (D:\)  HddNAS Instance 2018.01.22 - 01.28 master=2
+04/04 13:32:19_127 CMainFrame::OnDisplayChange started
+04/04 13:32:19_400 CMainFrame::OnDisplayChange started
+04/04 13:32:20_127 CMainFrame::OnDisplayChange((1280-1024)->(1600-900): windPos=(-3 -3 1603 903) w=0, lParam=0 
+04/04 13:32:20_149 CMainFrame::OnDisplayChange(After maximize windPos=(0 0 1600 870) taskbarH=30 cor=3 12 gbIsAero=0 0
+04/04 13:32:20_149 DlgStBar:onRepositionR xleft=1241 width=351 
+04/04 13:32:20_155 CMainFrame::OnDisplayChange  GetAeroVCorrection=12
+04/04 13:32:20_156 DlgStBar:onRepositionR1 xleft=1241 width=351  deckpos=1241 
+04/04 13:32:20_421 CMainFrame::OnDisplayChange((1600-900)->(1600-900): windPos=(0 0 1600 870) w=0, lParam=0 
+04/04 13:32:20_426 CMainFrame::OnDisplayChange(After maximize windPos=(0 0 1600 870) taskbarH=30 cor=3 12 gbIsAero=0 0
+04/04 13:32:20_426 DlgStBar:onRepositionR xleft=1241 width=351 
+04/04 13:32:20_429 CMainFrame::OnDisplayChange  GetAeroVCorrection=12
+04/04 13:32:20_429 DlgStBar:onRepositionR1 xleft=1241 width=351  deckpos=1241 
+04/04 13:32:35_757 StoreDeckHddNAS_row Deck  2 SetMasterRecord 2
+04/04 13:32:35_760 Starting archiving HddNAS  Deck B (G:\) 2018.12.03---12.09 recId=14641
+04/04 13:32:35_760 Before ArchiveRow nasAssocTime = zero folderTime = 2018-12-03
+04/04 13:32:35_760 Before ArchiveRowHDDNAS nasAssocTime = zero folderTime = 2018-12-03 pos=190182
+04/04 13:32:42_761 After ArchiveRowHDDNas outOfInstanceTime = zero info=pos=189 5 0 0 pos=190182
+04/04 13:32:42_761 Stop archiving Deck 2 recId=0
+04/04 13:32:42_960 After ArchiveRow bClosingIsRequired = 0 outOfInstanceTime = zero info=pos=189 5 0 0 pos=190182
+04/04 13:32:42_960 Stop archiving NAS 2018.12.03 - 12.09 recId=14641
